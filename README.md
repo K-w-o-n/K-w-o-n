@@ -1,6 +1,6 @@
 
 
-### Hi there 👋  My name is Kwon, i am a beginner fullstack developer from Myanmar.
+### Hi there 👋  My name is Kwon, i am a beginner developer from Myanmar.
 
   I love programming languages and coding is my life.I want to create many useful technologies for our world,
 
