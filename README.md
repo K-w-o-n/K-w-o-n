@@ -7,8 +7,6 @@
             
               🌱 I’m currently learning React
               
-              📫 How to reach me: ...by facebook/LinkIn/Ig
-              
-              ⚡ Fun fact: So Handsome
+              ⚡ Fun fact: So Handsome Ha Ha
 
 Skills => HTML/CSS/Bootstrap/Tailwind/Vanilla Js/React/PHP/Laravel/MySQL.
