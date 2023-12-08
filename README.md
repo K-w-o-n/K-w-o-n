@@ -10,4 +10,4 @@
               - 😄 Pronouns: ...kwon
               - ⚡ Fun fact: So Handsome
 
-My skills => HTML/CSS/Bootstrap/Tailwind/Vanilla Js/React/PHP/Laravel/MySQL.
+Skills => HTML/CSS/Bootstrap/Tailwind/Vanilla Js/React/PHP/Laravel/MySQL.
