@@ -1,6 +1,6 @@
 
 
-### Hi there 👋  My name is Kwon, i am a beginner fullstack developer from Yangon.
+### Hi there 👋  My name is Kwon, i am a beginner fullstack developer from Myanmar.
 
   I love programming languages and coding is my life.I want to crete many useful technologies for our world,
 
@@ -9,4 +9,4 @@
               
               ⚡ Fun fact: So Handsome Ha Ha
 
-Skills => HTML/CSS/Bootstrap/Tailwind/Vanilla Js/React/PHP/Laravel/MySQL.
+Learning  => HTML/CSS/Bootstrap/Tailwind/Vanilla Js/React/PHP/Laravel/MySQL.
