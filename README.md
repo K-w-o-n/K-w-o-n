@@ -6,8 +6,6 @@
 
               - 🔭 I’m currently working on freelance
               - 🌱 I’m currently learning React
-              <-- 👯 I’m looking to collaborate on ... -->
-              - 💬 Ask me about ...
               - 📫 How to reach me: ...by facebook/LinkIn/Ig
               - 😄 Pronouns: ...kwon
               - ⚡ Fun fact: So Handsome
