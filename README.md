@@ -2,7 +2,7 @@
 
 ### Hi there 👋  My name is Kwon, i am a beginner fullstack developer from Yangon.
 
-  I love programming languages and coding is my life.I want to crete many useful web apps for our world,
+  I love programming languages and coding is my life.I want to crete many useful technology for our world,
 
               - 🔭 I’m currently working on freelance
               - 🌱 I’m currently learning React
