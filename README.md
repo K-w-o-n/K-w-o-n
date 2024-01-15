@@ -24,5 +24,5 @@ Netninja Channel & Freecodecamp channel etc..
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
  
-#Github  Stats
+# Github  Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-w-o-n&theme=light&show_icons=true)
