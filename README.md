@@ -1,16 +1,11 @@
 
-
-### Hi there 👋  My name is Kwon, i am a beginner developer from Myanmar.
-
-  I love programming languages and coding is my life.I want to create many useful technologies for our world,
-
-            
-              🌱 Welcome from my github.🌱
+### Hello 👋 I'm Kwon!
+🌱Learning web development journey
+- Studied Web Developement at [Fairway Technology](http://fairway.com.mm/),<br>
+[A Programmer](https://www.aprogrammer.blog/)
               
-              ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+              
              
 
-
+Learning  => HTML/CSS/Bootstrap/Tailwind/Vanilla Js/React/PHP/Laravel/MySQL.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-w-o-n&theme=light&show_icons=true)
-
-### Skills => HTML/CSS/Bootstrap/Tailwind/Vanilla Js/React/PHP/Laravel/MySQL.
