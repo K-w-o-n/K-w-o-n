@@ -8,6 +8,6 @@
               🌱 Welcome from my github.🌱
               
               ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
-             ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-w-o-na&theme=dark&show_icons=true)
+             ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-w-0-n&theme=dark&show_icons=true)
 
 Learning  => HTML/CSS/Bootstrap/Tailwind/Vanilla Js/React/PHP/Laravel/MySQL.
