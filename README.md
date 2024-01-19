@@ -25,4 +25,4 @@ Netninja Channel & Freecodecamp channel etc..
 
  
 # Github  Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-w-o-n&theme=notics_minimus&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-w-o-n&theme=dark_minimus&show_icons=true)
