@@ -27,5 +27,5 @@ Netninja Channel & Freecodecamp channel etc..
 # Github  Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-w-o-n&theme=dark_minimus&show_icons=true)
 
-# my Dev card (daily.dev)
+# My Dev Card (daily.dev)
 <a href="https://app.daily.dev/kwonfsdev"><img src="https://api.daily.dev/devcards/v2/FRaQVXUNrPbI4d1Phb2m4.png?type=default&r=k67" width="356" alt="Kwon's Dev Card"/></a>
