@@ -1,11 +1,11 @@
 
-<div text-align="center">
+
   ### Hello 👋 I'm Kwon!
 🌱Learning web development journey
 - Studied Web Developement at [Fairway Technology](http://fairway.com.mm/),<br>
 [A Programmer](https://www.aprogrammer.blog/)/[Youtube](https://www.youtube.com/)/<br>
 Netninja Channel & Freecodecamp channel etc..
-</div>
+
               
               
              
